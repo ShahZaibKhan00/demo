@@ -32,4 +32,6 @@ next page url just change the number the page I have set the 1 data to be shown 
   &nbsp;  "http://demo.test/api/blog/show?page=2"<br>
 you just have to change the URL according to your machine this is my virtual host.<br>
 <br>
+
+I haven't created Queues because we need mail creditinals for that. I Know how to create and have created in my projects too. <br>
 I hope there will be no error when you will test it if occurs let me know ...
